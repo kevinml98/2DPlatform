@@ -9,4 +9,6 @@ Unity Asset Store:
   
   
 Scripts and functionality made by me myself.
-You can play it here: https://play.unity.com/mg/other/webgl-builds-73764
+You can play it here: https://play.unity.com/mg/other/webgl-builds-73764<br/><br/>
+
+@Kevin Martínez Leiva - 2021
