@@ -1,7 +1,7 @@
 # 2DPlatform
 <br/>
 ![GameImage](https://github.com/kevinml98/2DPlatform/blob/main/GameImages/Plant.PNG)<br/><br/>
-![Image](https://github.com/kevinml98/2DPlatform/blob/main/GameImages/Plant.PNG?raw=true)
+![Image](GameImages/Plant.PNG)
 
 ![Image]
 
