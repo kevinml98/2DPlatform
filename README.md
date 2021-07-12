@@ -1,9 +1,7 @@
 # 2DPlatform
 <br/>
 ![GameImage](https://github.com/kevinml98/2DPlatform/blob/main/GameImages/Plant.PNG)<br/><br/>
-![Image](https://github.com/kevinml98/2DPlatform/blob/7b090a03b191e775ee01715d11978af8589ed5fb/GameImages/Plant.PNG)
-
-![Image]
+![Image](https://raw.githubusercontent.com/kevinml98/2DPlatform/main/GameImages/Plant.PNG)
 
 My first ever 2D Platform game with Unity.<br/>
 Made following ElenaImagineer's YouTube tutorials. https://www.youtube.com/channel/UCxsrF0iBgA5HBLRHCa4lgkw<br/><br/>
