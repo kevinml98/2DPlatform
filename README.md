@@ -3,7 +3,7 @@
 <img src="./GameImages/Plant.PNG"/><br/>
 
 My first ever 2D Platform game with Unity.<br/>
-Made following ElenaImagineer's YouTube tutorials. https://www.youtube.com/channel/UCxsrF0iBgA5HBLRHCa4lgkw<br/><br/>
+Made following ElenaImagineer's YouTube tutorials. [Elena Blanes - YouTube](https://www.youtube.com/channel/UCxsrF0iBgA5HBLRHCa4lgkw)<br/><br/>
 
 Unity Asset Store:<br/>
   Pixel Adventure 1<br/>
@@ -12,6 +12,6 @@ Unity Asset Store:<br/>
   
   
 Scripts and functionality made by me myself.<br/>
-You can play it here: https://play.unity.com/mg/other/webgl-builds-73764<br/><br/>
+You can play it here: [UnityPlay - 2D Platform](https://play.unity.com/mg/other/webgl-builds-73764)<br/><br/>
 
 @Kevin Martínez Leiva - 2021
